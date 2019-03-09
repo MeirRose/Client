@@ -1,0 +1,30 @@
+<style>
+
+        .main-header {
+            max-width: 70%;
+            margin: 0, auto;
+            text-shadow: 0 4px 5px #ccc;
+            font-weight: 600;
+            color: rgb(73, 73, 197);
+        }
+
+        .list-styles {
+            list-style: none;
+            padding: 0.5rem;
+            border-radius: 7px;
+            border: 2px solid rgb(68, 17, 116);
+            background:linear-gradient(rgb(57, 0 ,80), rgb(68, 17, 116));
+            color: rgb(192,156,226);
+            text-shadow: 0 2px 3px white
+
+        }
+        #error:hover{
+            color: yellow;
+        }
+        #error:focus{
+            color: orange
+        }
+        #error:visited{
+            color:red
+        }
+</style>
